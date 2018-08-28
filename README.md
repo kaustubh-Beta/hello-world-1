@@ -11,6 +11,9 @@ This repository is simply to understand guithub
 #### [**This is how you create a highlighted web link**](https://www.youtube.com/watch?v=eQzPvXVP_O0) (This is one of my projects)
 The above link is for one of my project named Spark- The roboic sketching arm.
 
-##### now we will try to hyper link a pyton code
-
+hyper linking a code
 *[Here is the code](calibration.py)
+
+highlighting things 
+`this is how u highlight`
+
