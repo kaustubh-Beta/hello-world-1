@@ -8,6 +8,3 @@ our readme file.
 
 ![alt text](calibration1.jpg)
 This is how we display an image 
-
-Now we will try to display two images together 
-![alt text](calibration1.jpg)(calibration.11jpg)
